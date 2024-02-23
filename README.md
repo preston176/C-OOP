@@ -12,10 +12,12 @@
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
+
 - [MIT](https://choosealicense.com/licenses/mit/)
-```
+
 
 ## Additional Resources
+
 -[Intro to OOP in C#](https://www.youtube.com/watch?v=iA0XZwFqqKI)
 -[C# Tutorial for beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 -[C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
