@@ -33,6 +33,24 @@
 
 - The class that inherits the features of another class is called the subclass, and the class whose features are inherited is called the superclass.
 
+#### Types of inheritance
+
+1. ***Single Level inheritance***
+
+- 1 Base class / Parent class & 1 child class / derived class
+- Properties of base class A are inherited by derived class B
+
+2. ***Multi-Level Inheritance***
+
+- 1 class ***inherits*** another class and it is also being ***inherited*** by another class
+
+3. ***Hierarchical Inheritance***
+- multiple derived classes from only a ***single*** ***base / parent class***
+
+4. ***Multiple inheritance***
+
+- many base classes inherited by 1 derived / child class
+
 ### What is Polymorphism?
 
 - Polymorphism is the ability of a variable, function, or object to take on multiple forms.
