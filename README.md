@@ -3,8 +3,7 @@
 
 ## Installation
 - Install Visual Studio Code
-- Import the following profile [C# Profile for VSCode](https://vscode.dev/profile/github/
-cf5bbc599ffad8e574ae3b5408d3a8b4)
+- Import the following profile [C# Profile for VSCode](https://vscode.dev/profile/github/cf5bbc599ffad8e574ae3b5408d3a8b4)
 
 ## Sample Codes
 - The repo contains sample codes for C# OOP
