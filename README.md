@@ -8,6 +8,10 @@
 ## Sample Codes
 - The repo contains sample codes for C# OOP
 
+## Get Started
+
+[Chapter 1: Introduction to OOP](./Chapter1/README.md)
+
 ## Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
