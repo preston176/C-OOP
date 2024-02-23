@@ -23,7 +23,7 @@
 -[C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
 
 ## References
-- [C# OOP](https://www.tutorialspoint.com/csharp/csharp_object_oriented.htm)
-- [C# OOP](https://www.w3schools.com/cs/cs_oop.php)
-- [C# OOP](https://www.geeksforgeeks.org/c-sharp-object-oriented-programming/)
-- [C# OOP](https://www.c-sharpcorner.com/UploadFile/219d4d/introduction-to-object-oriented-programming-concepts-in-C-Sharp/)
+- [C# TutorialsPoint](https://www.tutorialspoint.com/csharp/csharp_object_oriented.htm)
+- [C# W3Schools](https://www.w3schools.com/cs/cs_oop.php)
+- [C# GeeksForGeeks](https://www.geeksforgeeks.org/c-sharp-object-oriented-programming/)
+- [C# C-SharpCorner](https://www.c-sharpcorner.com/UploadFile/219d4d/introduction-to-object-oriented-programming-concepts-in-C-Sharp/)
