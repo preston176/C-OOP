@@ -1,12 +1,11 @@
 ## C# OOP
-- This repo contains sample codes for C# OOP
+- This repo contains the basics of Object-Oriented Programming in C#.
+- It is a guide for beginners to understand the concepts of OOP in C#.
+- It contains examples to help understand the concepts better.
 
 ## Installation
 - Install Visual Studio Code
 - Import the following profile [C# Profile for VSCode](https://vscode.dev/profile/github/cf5bbc599ffad8e574ae3b5408d3a8b4)
-
-## Sample Codes
-- The repo contains sample codes for C# OOP
 
 ## Get Started
 
