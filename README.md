@@ -36,10 +36,10 @@ dotnet run
 ## Chapters
 - Dive into the various chapters to grasp essential OOP concepts and their implementation in C#:
 
-- Chapter 1: Introduction to OOP
-- Chapter 2: Classes and Inheritance
-- Chapter 3: Abstraction
-- Chapter 4: Polymorphism
+- [Chapter 1: Introduction to OOP](./Chapter1/README.md)
+- [Chapter 2: Classes and Inheritance](./Chapter2/README.md)
+- [Chapter 3: Abstraction](./Chapter3/README.md)
+- [Chapter 4: Polymorphism](./Chapter4/README.md)
 
 ## Contributing
 - Contributions to enhance and expand this guide are welcome! Before making significant changes, please open an issue to discuss proposed modifications.
