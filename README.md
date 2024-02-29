@@ -18,6 +18,12 @@ git clone https://github.com/preston176/C-OOP
 ```
 - Navigate to the code-template folder and **paste** the provided code snippets from any of the chapters.
 
+### Install .NET SDK
+- Install the .NET SDK to run the code snippets. You can download the .NET SDK from the following link:
+```
+https://dotnet.microsoft.com/en-us/download
+```
+
 Run the code using the following command:
 
 ```bash
