@@ -9,10 +9,10 @@
 
 ## Get Started
 
-[Chapter 1: Introduction to OOP](./Chapter1/README.md)
-[Chapter 2: Classes and Inheritance](./Chapter2/README.md)
-[Chapter 3: Abstraction](./Chapter3/README.md)
-[Chapter 4: Polymorphism](./)
+1. [Chapter 1: Introduction to OOP](./Chapter1/README.md)
+2. [Chapter 2: Classes and Inheritance](./Chapter2/README.md)
+3. [Chapter 3: Abstraction](./Chapter3/README.md)
+4. [Chapter 4: Polymorphism](./Chapter4/README.md)
 
 ## Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -24,9 +24,9 @@
 
 ## Additional Resources
 
--[Intro to OOP in C#](https://www.youtube.com/watch?v=iA0XZwFqqKI)
--[C# Tutorial for beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8)
--[C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
+1. [Intro to OOP in C#](https://www.youtube.com/watch?v=iA0XZwFqqKI)
+2. [C# Tutorial for beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+3. [C# Fundamentals for Beginners](https://www.youtube.com/watch?v=0QUgvfuKvWU)
 
 ## References
 - [C# TutorialsPoint](https://www.tutorialspoint.com/csharp/csharp_object_oriented.htm)
