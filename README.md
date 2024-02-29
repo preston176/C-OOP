@@ -12,6 +12,7 @@
 [Chapter 1: Introduction to OOP](./Chapter1/README.md)
 [Chapter 2: Classes and Inheritance](./Chapter2/README.md)
 [Chapter 3: Abstraction](./Chapter3/README.md)
+[Chapter 4: Polymorphism](./)
 
 ## Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
